@@ -1,5 +1,13 @@
-## Hi there 👋
+<img src="https://github.com/aryahmdm/aryahmdm/blob/main/github-banner.avif" alt="AryaMaulana ReadMe" width=100%/>
 
+</div></h3>
+
+
+
+<!--<img align="right" alt="coding-gif" width="400" src="https://github.com/emilyaugusto/emilyaugusto/blob/main/gifdeveloper.gif"> -->
+
+<!-- sobre -->
+ <h3 align="left">Hi! I'm Arya 👋</h3>
 <!--
 **aryahmdm/aryahmdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
