@@ -31,6 +31,8 @@ A Digital Product Designer with **5+ years of experience** shaping product direc
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/slack.png" alt="Slack" height=52px/>&nbsp;
 </div>
 
+<img src="https://github.com/aryahmdm/aryahmdm/blob/main/github-footer.avif" alt="AryaMaulana Footer" width=100%/>
+
 ---
 <h3 align="left">✨ About Me</h3>
 
