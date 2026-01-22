@@ -3,7 +3,7 @@
 </div></h3>
 
 <!-- Perkenalan -->
- <h3 align="left">Hi! I'm Arya 👋</h3>
+ <h3 align="left">👋 Hi! I'm Arya</h3>
  
 A Digital Product Designer with 5+ years of experience shaping product direction and delivering end-to-end design for web and mobile. I specialize in information architecture, design systems, and iterative testing to turn complexity into simple flows that scale, stay consistent, and drive measurable product outcomes.
 </h4> <div align="left"> 
@@ -14,7 +14,7 @@ A Digital Product Designer with 5+ years of experience shaping product direction
 
 ---
 <!-- ling-->
-<h3 align="left">Tools I'm Rocking 🛠️</h3>
+<h3 align="left">🛠️ Tools I'm Rocking</h3>
 
 <div align="left">
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/figma.png" alt="Figma" height=52px/>&nbsp;
@@ -30,4 +30,8 @@ A Digital Product Designer with 5+ years of experience shaping product direction
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/discord.png" alt="Discord" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/slack.png" alt="Slack" height=52px/>&nbsp;
 </div>
+
+---
+<h3 align="left">✨ About Me</h3>
+<!--- 🔭 I’m currently working on **Warehouse Management System Freelance Project** and **Mining Related Apps**.>
 <!--**aryahmdm/aryahmdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
