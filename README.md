@@ -1,4 +1,4 @@
-<img src="https://github.com/aryahmdm/aryahmdm/blob/main/github-banner.avif" alt="AryaMaulana ReadMe" width=100%/>
+<img src="https://github.com/aryahmdm/aryahmdm/blob/main/banners/github-banner.avif" alt="AryaMaulana ReadMe" width=100%/>
 
 </div></h3>
 
@@ -24,18 +24,18 @@ A Digital Product Designer with **5+ years of experience** shaping product direc
 <h3 align="left">🛠️ Tools I'm Rocking</h3>
 
 <div align="left">
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/figma.png" alt="Figma" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/framer.png" alt="Framer" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/maze.png" alt="Maze" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/miro.png" alt="Miro" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/photoshop.png" alt="Adobe Photoshop" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/illustrator.png" alt="Adobe Illustrator" height=52px/>&nbsp; </br>
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/aftereffects.png" alt="Adobe After Effects" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/notion.png" alt="Notion" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/jira.png" alt="Jira" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/trello.png" alt="Trello" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/discord.png" alt="Discord" height=52px/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/slack.png" alt="Slack" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/figma.avif" alt="Figma" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/framer.avif" alt="Framer" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/maze.avif" alt="Maze" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/miro.avif" alt="Miro" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/photoshop.avif" alt="Adobe Photoshop" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/illustrator.avif" alt="Adobe Illustrator" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/aftereffects.avif" alt="Adobe After Effects" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/notion.avif" alt="Notion" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/jira.avif" alt="Jira" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/trello.avif" alt="Trello" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/discord.avif" alt="Discord" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/slack.avif" alt="Slack" height=52px/>&nbsp;
 </div>
 
 <br/>
@@ -52,5 +52,5 @@ A Digital Product Designer with **5+ years of experience** shaping product direc
 
 <br/><br/><br/>
 
-<img src="https://github.com/aryahmdm/aryahmdm/blob/main/github-footer.avif" alt="AryaMaulana Footer" width=100%/>
+<img src="https://github.com/aryahmdm/aryahmdm/blob/main/banners/github-footer.avif" alt="AryaMaulana Footer" width=100%/>
 <!--**aryahmdm/aryahmdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
