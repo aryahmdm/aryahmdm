@@ -31,6 +31,8 @@ A Digital Product Designer with **5+ years of experience** shaping product direc
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/photoshop.avif" alt="Adobe Photoshop" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/illustrator.avif" alt="Adobe Illustrator" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/aftereffects.avif" alt="Adobe After Effects" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/wordpress.avif" alt="Wordpress" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/elementor.avif" alt="Elementor" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/notion.avif" alt="Notion" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/jira.avif" alt="Jira" height=52px/>&nbsp;
   <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/trello.avif" alt="Trello" height=52px/>&nbsp;
