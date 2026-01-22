@@ -5,7 +5,7 @@
 <!-- Perkenalan -->
  <h3 align="left">👋 Hi! I'm Arya</h3>
  
-A Digital Product Designer with 5+ years of experience shaping product direction and delivering end-to-end design for web and mobile. I specialize in information architecture, design systems, and iterative testing to turn complexity into simple flows that scale, stay consistent, and drive measurable product outcomes.
+A Digital Product Designer with **5+ years of experience** shaping product direction and delivering end-to-end design for web and mobile. I specialize in information architecture, design systems, and iterative testing to turn complexity into simple flows that scale, stay consistent, and drive measurable product outcomes.
 </h4> <div align="left"> 
  
 <a href="https://www.linkedin.com/in/aryahmdm"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/linkedin.png" alt="Arya's Linkedin" height=40px/></a>&nbsp;&nbsp;&nbsp;
@@ -33,5 +33,9 @@ A Digital Product Designer with 5+ years of experience shaping product direction
 
 ---
 <h3 align="left">✨ About Me</h3>
-<!--- 🔭 I’m currently working on **Warehouse Management System Freelance Project** and **Mining Related Apps**.>
+
+
+- 💻 I’m currently working on **Education Company Website Design Project** and **Creative Design for Agency**.
+- 👀 I'm looking to collaborate for a **Freelance Opportunity**.
+- 🗨️ Ask me about **UI/UX Design, Web Design, Product Design, Creative Design,** and **Motion Design**.
 <!--**aryahmdm/aryahmdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
