@@ -16,20 +16,18 @@ A Digital Product Designer with 5+ years of experience shaping product direction
 <!-- ling-->
 <h3 align="left">Tools I'm Rocking 🛠️</h3>
 
-<br/>
-
 <div align="left">
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/figma.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/framer.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/maze.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/miro.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/photoshop.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/illustrator.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/aftereffects.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/notion.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/jira.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/trello.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/discord.png"/>&nbsp;
-  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/slack.png"/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/figma.png" alt="Figma" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/framer.png" alt="Framer" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/maze.png" alt="Maze" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/miro.png" alt="Miro" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/photoshop.png" alt="Adobe Photoshop" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/illustrator.png" alt="Adobe Illustrator" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/aftereffects.png" alt="Adobe After Effects" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/notion.png" alt="Notion" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/jira.png" alt="Jira" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/trello.png" alt="Trello" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/discord.png" alt="Discord" height=52px/>&nbsp;
+  <img src="https://github.com/aryahmdm/aryahmdm/blob/main/stacks/slack.png" alt="Slack" height=52px/>&nbsp;
 </div>
 <!--**aryahmdm/aryahmdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
