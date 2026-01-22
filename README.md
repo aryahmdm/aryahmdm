@@ -11,9 +11,9 @@ A Digital Product Designer with **5+ years of experience** shaping product direc
 
 </h4> <div align="left"> 
  
-<a href="https://www.linkedin.com/in/aryahmdm"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/linkedin.png" alt="Arya's Linkedin" height=40px/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:aryamaulana.work@gmail.com"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/email.png" alt="Arya's Email" height=40px/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.dribbble.com/aryahmdm"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/dribbble.png" alt="Arya's Dribbble" height=40px/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aryahmdm"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/linkedin.png" alt="Arya's Linkedin" height=36px/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:aryamaulana.work@gmail.com"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/email.png" alt="Arya's Email" height=36px/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.dribbble.com/aryahmdm"><img src="https://github.com/aryahmdm/aryahmdm/blob/main/dribbble.png" alt="Arya's Dribbble" height=36px/></a>&nbsp;&nbsp;&nbsp;
 
 <br/>
 
